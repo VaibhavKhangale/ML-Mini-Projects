@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Mini Projects
+# 🤖 Machine Learning Mini Projects
 
 Welcome to my collection of machine learning mini-projects!  
 Each folder in this repo contains a self-contained ML project with its own code, results, and explanation.
@@ -7,7 +7,7 @@ Each folder in this repo contains a self-contained ML project with its own code,
 
 ## 📂 Projects
 
-### 🧠 Brain Tumor Detection and Classification
+###1. 🧠 Brain Tumor Detection and Classification
 A ML pipeline for developing Tumor Classifier in Tensorflow using Transfer learning.
 
 ---
