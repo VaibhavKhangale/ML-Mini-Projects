@@ -23,4 +23,5 @@ The output of final Epoch is observed as:
 Epoch 50/50
 179/179 [==============================] - 212s 1s/step - loss: 0.2044 - accuracy: 0.9272 - val_loss: 0.2475 - val_accuracy: 0.9123
 ```
-### 📊  Accuracy and loss Graphs :
+### 📊  Accuracy and loss Graphs : ![Model Accuracy Graph](media/accuracy_loss.jpeg)
+
