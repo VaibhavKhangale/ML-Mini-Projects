@@ -3,6 +3,7 @@
 ## 📝 Description
 
 The script consists of a machine learning pipeline in Tensorflow using Transfer learning. 
+(the .ipynb script can be run using default base-setup from main README.md)
 
 ### 📄 Dataset
 
