@@ -37,3 +37,8 @@ python -m pip install "tensorflow<2.11"
 pip install numpy pandas matplotlib
 #etc.
 
+#install jupyter lab
+conda install -c conda-forge jupyterlab
+jupyter lab
+
+
