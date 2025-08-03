@@ -6,7 +6,7 @@ The script consists of a machine learning pipeline in Tensorflow using Transfer 
 
 ### 📄 Dataset
 
-You can acces the dataset on kaggle : 
+You can acces the dataset on kaggle : [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 The dataset consistis of 2 sets, one for training and another for validation.
 Each have 4 categories of images - glioma, meningioma, pituitary and No Tumor.
