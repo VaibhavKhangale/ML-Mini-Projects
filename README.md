@@ -7,7 +7,7 @@ Each folder in this repo contains a self-contained ML project with its own code,
 
 ## 📂 Projects
 
-###1. 🧠 Brain Tumor Detection and Classification
+### 1. 🧠 Brain Tumor Detection and Classification
 A ML pipeline for developing Tumor Classifier in Tensorflow using Transfer learning.
 
 ---
