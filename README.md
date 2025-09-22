@@ -10,6 +10,9 @@ Each folder in this repo contains a self-contained ML project with its own code,
 ### 1. 🧠 Brain Tumor Detection and Classification
 A ML pipeline for developing Tumor Classifier in Tensorflow using Transfer learning.
 
+### 2. 🚗 AI based Smart Grid-Headlights
+An AI based headlight system which makes use of computer vision to avoid blinding drivers.
+
 ---
 
 ## 📌 Motive
